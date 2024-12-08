@@ -1,0 +1,23 @@
+Assuntos:
+
+Fechamento em Relação às Operações
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Determinar sob quais operações a classe das linguagens regulares é fechada
+- Utilizar as construções obtidas nas prova de fechamento para construir AFDs para linguagens mais complexas
+- Conhecer as chamadas "Operações Regulares"
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Até antes da seção 1.2. Ou seja, páginas: 44 a 47 e parte da 48.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Exercícios: 1.4, 1.5 (exceto 1.5d a 1.5f) e 1.6e a 1.6n
+
+
+

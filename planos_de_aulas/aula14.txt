@@ -1,0 +1,23 @@
+Assuntos:
+
+Forma Normal de Chomsky (FNC)
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Compreender o que é a FNC.
+- Compreender as transformações necessárias para colocar uma GLC na FNC.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Até antes da seção 2.2. Ou seja, páginas: 111 a 113.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Exercícios: 2.14 e 2.26
+    - Converta as GLCs dos exercícios 2.1 e 2.3 em GLC equivalentes na FNC.
+    
+
+

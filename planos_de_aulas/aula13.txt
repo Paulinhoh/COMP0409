@@ -1,0 +1,27 @@
+Assuntos:
+
+Linguagens Livres de Contexto e Ambiguidade
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Definir a classe das Linguagens Livres de Contexto (LLCs).
+- Compreender o que é ambiguidade.
+- Definir o que é derivação mais à esquerda e mais à direita.
+- Definir quando uma GLC é ambígua.
+- Definir quando uma linguagem é inerentemente ambígua.
+- Demonstrar que uma GLC é ambígua.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Subseção "AMBIGUIDADE". Ou seja, páginas: 110 e parte da 111.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Exercícios: 2.9, 2.27a
+    - Verifique se as GLCs que você construiu no exercício 2.4 são ambíguas. Caso você não consiga decidir se alguma delas é ou não ambígua, você conseguiria construir um GLC que certamente é ambígua para aquela linguagem?
+    
+
+

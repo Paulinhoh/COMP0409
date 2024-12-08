@@ -1,0 +1,22 @@
+Assuntos:
+
+Autômatos com Pilha (APs)
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Definir formalmente o que é um Autômato com Pilha (AP).
+- Ser capaz de projetar AFDs para linguagens regulares.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Páginas: 114 a 119.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Exercícios: 2.5, 2.7 e 2.10
+    - Escreva os diagramas de estados para os APs das questões 2.7 e 2.10
+
+

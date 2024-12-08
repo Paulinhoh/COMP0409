@@ -1,0 +1,25 @@
+Assuntos:
+
+Lema do Bombeamento para Linguagens Regulares
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Compreender o que é o lema do bombeamento
+- Compreender como ele pode ser utilizado
+- Compreender como ele não pode ser utilizado
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Seção 1.4. Ou seja, páginas: 79 a 85.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Reler a definição do lema do bombeamento
+    - Verificar para cada exemplo como o lema está sendo utilizado
+    - Tentar reescrever uma prova para o primeiro exemplo sem olhar a prova dada.
+
+
+

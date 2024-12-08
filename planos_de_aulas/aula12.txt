@@ -1,0 +1,22 @@
+Assuntos:
+
+Grámaticas Livres de Contexto (GLCs)
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Definir formalmente o que é uma GLC
+- Compreender como cadeias são geradas a partir de GLCs (origina, deriva, árvore sintática)
+- Ser capaz de projetar GLCs (GLC da união, GLC da concatenação, GLC de um AFD ou AFN, partes que se relacionam na cadeia e como isso é representado em uma GLC)
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Até antes da subseção "AMBIGUIDADE". Ou seja, páginas: 103 a 109.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Exercícios: 2.1, 2.3, 2.4, 2.6, 2.16 e 2.17
+
+

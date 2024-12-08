@@ -1,0 +1,27 @@
+Assuntos:
+
+Existência de Linguagens Não-Reconhecíveis. Indecidibilidade - Problema da Parada. Reduções e Indecidibilidade.
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Ser capaz de compreender porque algumas linguagens não são Turing-reconhecíveis;
+- Ser capaz de provar que o problema da parada é indecidível;
+- Compreender o que é uma redução;
+- Compreender como uma redução pode ser utilizada para provar a indecidibilidade de problemas.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 4
+    - Páginas: 187 (a partir do corolário 4.18) a 192.
+    - Páginas: 197 a 202.
+
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 4
+    - Exercícios: 4.9, 4.10, 4.28
+    - Exercícios: 5.1, 5.2, 5.9, 5.14
+    - Utilize reduções para provar que as linguagens da questão 5.30 são indecidíveis.
+
+
