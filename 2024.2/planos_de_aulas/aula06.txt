@@ -1,0 +1,25 @@
+Assuntos:
+
+Expressões Regulares (ERs)
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Ser capaz de definir o que é uma ER
+- Ser capaz de definir o resultado das operações regulares
+- Identificar e definir açúcares sintáticos
+- Ser capaz de escrever ERs que gerem linguagens definidas em notação de conjunto
+- Ser capaz de definir em notação de conjunto qual a linguagem gerada por uma ER
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Até antes da subseção "EQUIVALÊNCIA COM AUTÔMATOS FINITOS". Ou seja, páginas: 65 a 68.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Exercícios: 1.5d a 1.5f, 1.7e e 1.7f, 1.8, 1.9. 1.10, 1.16, 1.18, 1.20 e 1.23
+
+
+

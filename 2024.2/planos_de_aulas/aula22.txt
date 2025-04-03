@@ -1,0 +1,22 @@
+Assuntos:
+
+Máquinas de Turing.
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Compreender o que é uma Máquina de Turing.
+- Compreender como uma MT computa.
+- Ser capaz de descrever MTs para linguagens simples.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 3
+    - Páginas: 143 a 148 (antes da definição 3.5) e 161 a 163.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 3
+    - Exercícios: 3.1, 3.2 e 3.5
+
+

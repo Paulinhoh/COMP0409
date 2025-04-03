@@ -1,0 +1,18 @@
+Assuntos:
+
+Exercícios: Lema do Bombeamento para Linguagens Regulares
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Exercitar o uso do lema do bombeamento para provar que uma linguagem não é regular
+
+Atividades (tente fazer sem olhar/procurar a resposta):
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Exercícios: 1.29 e 1.30
+- Prove que a linguagem E = {0^n0^{3n} | n >= 0} não é regular
+- Prove que a linguagem F = {w \in {0,1}* | w é um palíndromo} não é regular
+ 
+
+

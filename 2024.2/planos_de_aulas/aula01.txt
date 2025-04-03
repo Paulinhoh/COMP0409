@@ -1,0 +1,29 @@
+Assuntos:
+
+Apresentação da Disciplina
+Introdução aos Autômatos Finitos Determinísticos
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Entender o que é um modelo computacional
+- Ser capaz de definir o que é uma linguagem
+- Ter uma noção de como modelos podem ajudar a definir os limites da computação
+- Ter uma noção inicial a respeito do modelo de autômatos finitos determinísticos
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 0
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 1
+    - Até antes da subseção "DEFINIÇÃO FORMAL DE UM AUTÔMATO FINITO". Ou seja, páginas: 31 a 34 e início da 35.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 0
+    - Exercícios: 0.1 a 0.9
+    
+Ferramentas:
+
+Finite State Machine Designer - https://www.cs.unc.edu/~otternes/comp455/fsm_designer/
+
+

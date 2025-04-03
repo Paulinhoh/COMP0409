@@ -1,0 +1,22 @@
+Assuntos:
+
+Máquinas de Turing. Linguagens Turing-Reconhecíveis e Linguagens Turing-Decidíveis.
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Compreender o que é uma linguagem Turing-reconhecível.
+- Compreender o que é uma linguagem Turing-decidível.
+- Ser capaz de descrever MTs para linguagens Turing-reconhecíveis e Turing-decidíveis.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 3
+    - Páginas: 148 a 154.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 3
+    - Apresente diagramas de estados para MTs que decidam sobre as linguagens do exercício 3.8
+
+

@@ -1,0 +1,21 @@
+Assuntos:
+
+Autômatos com Pilha (APs) e Equivalência com GLCs
+
+Objetivos:
+
+Nesta aula o aluno deve:
+- Ser capaz de converter uma GLC em um AP equivalente.
+- Entender como funciona a conversão de um AP para uma GLC.
+
+Leituras:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Páginas: 120 a 128.
+
+Atividades:
+
+- Introdução à Teoria da Computação - Michael Sipser - Capítulo 2
+    - Exercícios: 2.11 e 2.12
+
+
